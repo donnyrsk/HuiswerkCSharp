@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Quiz\\Quiz.csproj",
+      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Quiz\\Quiz.csproj",
       "projectName": "Quiz",
-      "projectPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Quiz\\Quiz.csproj",
+      "projectPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Quiz\\Quiz.csproj",
       "packagesPath": "C:\\Users\\donny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Quiz\\obj\\",
+      "outputPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Quiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\donny\\AppData\\Roaming\\NuGet\\NuGet.Config",

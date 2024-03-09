@@ -7,13 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2A Opdrachten", "Week 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2B Opdrachten", "Week 2B Opdrachten", "{85D64671-C095-4B06-B09C-02CB79BEE790}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activiteit deel 1", "Activiteit deel 1\Activiteit deel 1.csproj", "{59AC8A6A-000B-45F7-8DBB-636D5535FDB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activiteit deel 1", "Activiteit deel 1\Activiteit deel 1.csproj", "{59AC8A6A-000B-45F7-8DBB-636D5535FDB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{900D3BB2-CA3E-4747-97B7-95A51D2E9889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "Quiz\Quiz.csproj", "{900D3BB2-CA3E-4747-97B7-95A51D2E9889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activiteit deel 2", "Activiteit deel 2\Activiteit deel 2.csproj", "{4890C149-6F49-4338-866E-DBD96B16A5C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activiteit deel 2", "Activiteit deel 2\Activiteit deel 2.csproj", "{4890C149-6F49-4338-866E-DBD96B16A5C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gegevensbeheer", "Gegevensbeheer\Gegevensbeheer.csproj", "{5AEC068F-7347-4420-92DF-8934C7757939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gegevensbeheer", "Gegevensbeheer\Gegevensbeheer.csproj", "{5AEC068F-7347-4420-92DF-8934C7757939}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 4A Opdrachten", "Week 4A Opdrachten", "{0D003922-4DE4-4880-90BD-AA9DDFC055AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

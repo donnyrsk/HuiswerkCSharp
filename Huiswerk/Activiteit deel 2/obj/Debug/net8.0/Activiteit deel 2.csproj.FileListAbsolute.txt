@@ -1,0 +1,5 @@
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Activiteit deel 2\obj\Debug\net8.0\Activiteit deel 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Activiteit deel 2\obj\Debug\net8.0\Activiteit deel 2.AssemblyInfoInputs.cache
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Activiteit deel 2\obj\Debug\net8.0\Activiteit deel 2.AssemblyInfo.cs
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Activiteit deel 2\obj\Debug\net8.0\Activiteit deel 2.csproj.CoreCompileInputs.cache
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Activiteit deel 2\obj\Debug\net8.0\Activiteit deel 2.sourcelink.json

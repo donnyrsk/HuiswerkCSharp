@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Gegevensbeheer\\Gegevensbeheer.csproj",
+      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Gegevensbeheer\\Gegevensbeheer.csproj",
       "projectName": "Gegevensbeheer",
-      "projectPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Gegevensbeheer\\Gegevensbeheer.csproj",
+      "projectPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Gegevensbeheer\\Gegevensbeheer.csproj",
       "packagesPath": "C:\\Users\\donny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Gegevensbeheer\\obj\\",
+      "outputPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Gegevensbeheer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\donny\\AppData\\Roaming\\NuGet\\NuGet.Config",

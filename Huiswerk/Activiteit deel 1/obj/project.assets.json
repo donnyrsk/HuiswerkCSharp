@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Activiteit deel 1\\Activiteit deel 1.csproj",
+      "projectUniqueName": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Activiteit deel 1\\Activiteit deel 1.csproj",
       "projectName": "Activiteit deel 1",
-      "projectPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Activiteit deel 1\\Activiteit deel 1.csproj",
+      "projectPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Activiteit deel 1\\Activiteit deel 1.csproj",
       "packagesPath": "C:\\Users\\donny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donny\\source\\repos\\Huiswerk\\Activiteit deel 1\\obj\\",
+      "outputPath": "C:\\Users\\donny\\source\\repos\\HuiswerkCSharp\\Huiswerk\\Activiteit deel 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\donny\\AppData\\Roaming\\NuGet\\NuGet.Config",

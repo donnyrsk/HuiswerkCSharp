@@ -1,0 +1,15 @@
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\bin\Debug\net8.0\Huiswerk.exe
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\bin\Debug\net8.0\Huiswerk.deps.json
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\bin\Debug\net8.0\Huiswerk.runtimeconfig.json
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\bin\Debug\net8.0\Huiswerk.dll
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\bin\Debug\net8.0\Huiswerk.pdb
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.AssemblyInfoInputs.cache
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.AssemblyInfo.cs
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.csproj.CoreCompileInputs.cache
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.sourcelink.json
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.dll
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\refint\Huiswerk.dll
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.pdb
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\Huiswerk.genruntimeconfig.cache
+C:\Users\donny\source\repos\HuiswerkCSharp\Huiswerk\Huiswerk\obj\Debug\net8.0\ref\Huiswerk.dll
